@@ -17,3 +17,4 @@ jobs:
         uses: discourse/publish-rubygems-action@version2
         env:
           RUBYGEMS_API_KEY: ${{secrets.RUBYGEMS_API_KEY}}
+          GIT_EMAIL: jradosz@gmail.com
