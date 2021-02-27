@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = CvxTestPush::VERSION
   spec.authors       = ["Jarek Radosz"]
   spec.email         = ["jradosz@gmail.com"]
-  spec.summary       = "A test of automatic gem publishing and version tagging!"
+  spec.summary       = "A test of automatic gem publishing and version tagging"
 
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
